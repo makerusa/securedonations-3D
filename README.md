@@ -81,10 +81,16 @@ The **base** prints on its own with **no supports**.
 
 ## License
 
-Released under **[Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)**.
-You're free to use, modify, and share these files — including remixes — as long
-as you **give attribution to Secure Donations** and share your remixes under the
-**same license** so the whole community benefits.
+Released under **[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)** — see [`LICENSE`](LICENSE).
+
+You're free to use, modify, and share these files — including remixes — as long as you:
+
+- **Give attribution** to Secure Donations,
+- **Don't use them commercially** — no selling the files or the printed boxes — without our permission, and
+- **Share your remixes under the same license**, so the whole community benefits.
+
+**Want to sell prints or use this commercially?** We're open to it — reach out via
+[securedonations.net](https://securedonations.net) for a commercial license.
 
 ---
 
